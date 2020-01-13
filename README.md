@@ -20,17 +20,17 @@ Ideally, the repository should have the notebooks with all basic modern types of
 
 Below is a list of networks to be implemented (those which are already available are marked)
 
-[ ] NN, RBF+NN, AE+NN
-[ ] CNN, ResNet 
-[ ] CGN
-[ ] RNN, LSTM, LSTM + Attention, Seq2Seq
-[ ] Word2Vec, Emdeddings
-[ ] VAE
-[ ] GAN
-[ ] T2T
-[ ] PLS
-[ ] RL
-[ ] Networks that generate text, music, pictures...
+* [ ] NN, RBF+NN, AE+NN
+* [ ] CNN, ResNet 
+* [ ] CGN
+* [ ] RNN, LSTM, LSTM + Attention, Seq2Seq
+* [ ] Word2Vec, Emdeddings
+* [ ] VAE
+* [ ] GAN
+* [ ] T2T
+* [ ] PLS
+* [ ] RL
+* [ ] Networks that generate text, music, pictures...
 
 
 ## Notebook Requirements
@@ -60,13 +60,6 @@ It is advisable to illustrate the data and the final result with a plot.
 First of all, analysis of variance of error and parameters, change of error value during optimization ([learning curve](https://en.wikipedia.org/wiki/Learning_curve)), analysis of sample size sufficiency (change of variance during replenishment), analysis of structure (change of error and variance with increasing complexity).
 
 ### Notebook Quality Criterion
-
-Критерий качества ноутбуков: "общественная польза, отделяемость от автора". Чтобы код и текст были понятны, чтоб кто угодно мог изменить код, почитать текст и тоже войти в тему.
-
-Привести пояснения, расписать всё текстом, что происходит и почему. 
-Предполагается, что ноутбук будет использоваться студентами третьего курса.
-Код можно изменять: ясно, как загрузить другую выборку, изменить структуру сети, изменить функцию ошибки.
-Рекомендуется найти уже готовый код и привести его в порядок, дорисовать графики. "Хороший чужой источник". 
 
 Criteria for the quality of laptops is just *public benefit*, and *separability from the author*: the code and text should be understandable, so that anyone can change the code, read the explanations and understand the core things.
 
