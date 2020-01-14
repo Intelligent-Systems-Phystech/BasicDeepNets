@@ -75,6 +75,11 @@ In general, it is recommended to find a ready-made code (good external source) a
 
 ### Linear Models
 
+What can be demonstrated
+
+* in the practical part: solve a couple of problems, show that they can be solved analytically, using gradient methods and with the help of PyTorch or TensorFlow
+* in the theoretical part: compare ordinary linear regression and Bayesian one
+
 * https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
 * https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb
 * https://github.com/noahgift/regression-concepts/blob/master/ml_regression.ipynb
@@ -86,34 +91,48 @@ In general, it is recommended to find a ready-made code (good external source) a
 * https://github.com/WillKoehrsen/Data-Analysis/blob/master/bayesian_lr/Bayesian%20Linear%20Regression%20Demonstration.ipynb
 * https://github.com/zjost/bayesian-linear-regression/blob/master/src/bayes-regression.ipynb
 * https://alexioannides.com/2018/11/07/bayesian-regression-in-pymc3-using-mcmc-variational-inference/r
-Что можно показать (практика): решить пару задач, показать что их можно считать аналитически, градиентными методами и через torch/tensorflow
-Что можно показать (теория): сопоставить обычную линейную регрессию и байеса
 
-### Логистическая регрессия 
+
+### Logistic regression
+
+What can be demonstrated (theoretical part): consider how the solution changes depending on the values of hyperparameters, visualize.
 
 * https://github.com/dvgodoy/deepreplay
-Что можно показать (теория):  рассмотреть как меняется решение в зависимости от значений гиперпараметров, провизуализировать
 
-### One-Layer net
-Что можно показать (теория): универсальный аппроксиматор, переобучение
+
+### One-Layer Net
+
+What can be demonstrated (theoretical part): [universal function](https://en.wikipedia.org/wiki/UTM_theorem) approximator, overfitting.
+
 
 ### MLP
+
+What can be demonstrated (theoretical part): visualize non-linearity, how the decisive surface changes depending on depth.
+
 * https://github.com/ageron/handson-ml/blob/master/11_deep_learning.ipynb
-Что можно показать (теория): провизуализировать нелинейность, как меняется решающая поверхность в зависимости от глубины
+
 
 ### Autoencoder
+
+What can be demonstrated (theoretical part): compare with PCA, show compression, denoising, sparsing.
+
 * https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/AutoEncoders.ipynb
-https://github.com/ageron/handson-ml/blob/master/15_autoencoders.ipynb
-Что можно показать (теория): сопоставить с PCA, показать компрессию, denoising, sparse autoencoder
+* https://github.com/ageron/handson-ml/blob/master/15_autoencoders.ipynb
+
 
 ### CNN
+
 * https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2004/Week_04_Convolutional_Neural_Networks.ipynb
 * https://github.com/aamini/introtodeeplearning_labs/tree/master/lab2
 * https://colab.research.google.com/github/mhagiwara/realworldnlp/blob/master/examples/sentiment/sst_cnn_classifier.ipynb
 * https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Sketcher.ipynb
 * https://github.com/ageron/handson-ml/blob/master/13_convolutional_neural_networks.ipynb
 
+
 ### RNN
+
+What can be demonstrated (theoretical part): vanishing gradients, attention.
+
 * https://github.com/graykode/nlp-tutorial/blob/master/3-1.TextRNN/TextRNN_Torch.ipynb
 * https://github.com/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM_Torch.ipynb
 * https://github.com/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM_Torch.ipynb
@@ -129,26 +148,33 @@ https://github.com/ageron/handson-ml/blob/master/15_autoencoders.ipynb
 * https://github.com/hse-aml/natural-language-processing/blob/master/week4/week4-seq2seq.ipynb
 * https://colab.research.google.com/github/mhagiwara/realworldnlp/blob/master/examples/sentiment/sst_classifier.ipynb
 * https://github.com/ageron/handson-ml/blob/master/14_recurrent_neural_networks.ipynb
-Что можно показать (теория):  vanishing gradients, attention
+
 
 ### ResNets
 
+
 ### Embeddings
+
 * https://github.com/graykode/nlp-tutorial/tree/master/1-2.Word2Vec
 * https://github.com/graykode/nlp-tutorial/blob/master/1-3.FastText/FastText.ipynb
 * https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2002/Week_02_Word_Embeddings_(Part_1).ipynb
 * https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2003/Week_03_Word_Embeddings_(Part_2).ipynb
 * https://github.com/hse-aml/natural-language-processing/blob/master/week3/week3-Embeddings.ipynb
 
-### Variational models
+
+### Variational Models
+
 
 ### GAN
+
 * https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb
 * https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGAN.ipynb
 * https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/BigGanEx.ipynb
 * https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/SC_FEGAN.ipynb
 
+
 ### T2T
+
 * https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
 * https://github.com/jessevig/bertviz
 * https://github.com/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer(Greedy_decoder)_Torch.ipynb
