@@ -6,7 +6,7 @@ A collection of notebooks with basic deep neural networks implementation and exp
 ## Motivation
 
 Due to the large number of neural network libraries with ready-to-use models, it is planned to change the introductory course in Machine Learning.
-Namely, neural networks are going to be introduced along with the basic ML theory.
+Namely, neural networks are going to be introduced along with the basic ML theory, as a possible first approach to solve applied problems: take a relevant model, train it, then analyze.
 For this to work, it is necessary to separate the type of network from the optimized criterion and from the optimization algorithm in the problem statement;
 it is also important to present the neural network as a *mapping* which fits the algebraic description of the feature space in which the measurements are made.
 The analysis of the statistical nature of the measurements should be performed through the Bayesian derivation, which ends with an error function.
@@ -39,6 +39,12 @@ Each network should be presented in its simplest form so that it is clear how it
 It is advisable to do everything with PyTorch, avoiding out-of-the-box solutions.
 Notebooks should have a heading, sectioning, explanatory comments (if possible, in English).
 
+So, in the notebooks must provide
+
+* clear code for constructing and training the nets
+* derscriptive text explanations, trying to express ideas in general terms, operating only with such notions as *model*, *sample*, *error function* — so that a beginner in ML can take, read, and understand everything more or less clearly
+* Bayesian analysis
+
 ### Structure
 
 Notebooks should have the following sections:
@@ -61,7 +67,7 @@ First of all, analysis of variance of error and parameters, change of error valu
 
 ### Notebook Quality Criterion
 
-Criteria for the quality of laptops is just *public benefit*, and *separability from the author*: the code and text should be understandable, so that anyone can change the code, read the explanations and understand the core things.
+Criteria for the quality of laptops is just *public benefit*, and *separability from the author*: the code and text should be understandable, so that anyone can open the notebooks, change the code, and understand the core things.
 
 One should provide explanations, explain everything with text, what happens and why.
 It is assumed that the notebook will be used by third year students.
