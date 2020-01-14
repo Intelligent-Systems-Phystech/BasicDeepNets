@@ -39,7 +39,7 @@ Each network should be presented in its simplest form so that it is clear how it
 It is advisable to do everything with PyTorch, avoiding out-of-the-box solutions.
 Notebooks should have a heading, sectioning, explanatory comments (if possible, in English).
 
-So, in the notebooks must provide
+So, the notebooks must provide
 
 * clear code for constructing and training the nets
 * derscriptive text explanations, trying to express ideas in general terms, operating only with such notions as *model*, *sample*, *error function* — so that a beginner in ML can take, read, and understand everything more or less clearly
