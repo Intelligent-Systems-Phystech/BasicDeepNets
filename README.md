@@ -26,10 +26,11 @@ Below is a list of networks to be implemented (those which are already available
 * [ ] RNN, LSTM, LSTM + Attention, Seq2Seq
 * [ ] Word2Vec, Emdeddings
 * [ ] VAE
-* [ ] GAN
+* [x] [GAN](GAN.ipynb)
 * [ ] T2T
 * [ ] PLS
 * [ ] RL
+* [x] Seq2Seq + Attention
 * [ ] Networks that generate text, music, pictures...
 
 
