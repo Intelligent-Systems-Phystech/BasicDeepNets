@@ -18,20 +18,20 @@ Notebooks presented in the repository are just laboratory works for third year s
 
 Ideally, the repository should have the notebooks with all basic modern types of neural networks.
 
-Below is a list of networks to be implemented (those which are already available are marked)
+Below is a list of networks to be implemented (those which are already available have an associated link)
 
-* [ ] NN, RBF+NN, AE+NN
-* [ ] CNN, ResNet 
-* [ ] CGN
-* [ ] RNN, LSTM, LSTM + Attention, Seq2Seq
-* [ ] Word2Vec, Emdeddings
-* [ ] VAE
-* [x] [GAN](GAN.ipynb)
-* [ ] T2T
-* [ ] PLS
-* [ ] RL
-* [x] [Seq2Seq + Attention](Seq2seq+Attention.ipynb)
-* [ ] Networks that generate text, music, pictures...
+* NN, RBF+NN, AE+NN
+* CNN, ResNet 
+* GCN
+* RNN, LSTM, LSTM + Attention
+* Word2Vec, Emdeddings
+* VAE
+* [GAN](GAN.ipynb)
+* T2T
+* PLS
+* RL
+* [Seq2Seq + Attention](Seq2seq+Attention.ipynb)
+* Networks that generate text, music, pictures...
 
 
 ## Notebook Requirements
