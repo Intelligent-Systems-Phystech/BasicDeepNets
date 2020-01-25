@@ -23,7 +23,8 @@ Below is a list of networks to be implemented (those which are already available
 * NN, RBF+NN, AE+NN
 * CNN, ResNet 
 * GCN
-* RNN, LSTM, LSTM + Attention
+* [RNN (Text)](SentimentAnalysis.ipynb), [RNN (Images)](ImageRNN.ipynb)
+* LSTM, LSTM + Attention
 * Word2Vec, Emdeddings
 * VAE
 * [GAN](GAN.ipynb)
