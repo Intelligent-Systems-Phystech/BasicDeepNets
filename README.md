@@ -31,7 +31,7 @@ Below is a list of networks to be implemented (those which are already available
 * T2T
 * PLS
 * RL
-* [Seq2Seq + Attention](Seq2seq + Attention.ipynb)
+* [Seq2Seq + Attention](Seq2seq%20+%20Attention.ipynb)
 * Networks that generate text, music, pictures...
 
 
