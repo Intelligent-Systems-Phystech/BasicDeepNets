@@ -20,7 +20,7 @@ Ideally, the repository should have the notebooks with all basic modern types of
 
 Below is a list of networks to be implemented (those which are already available have an associated link)
 
-* NN, RBF+NN, AE+NN
+* [NN](NN.ipynb), [NN+RBF](NN+RBF.ipynb), [NN+AE](NN+AE.ipynb)
 * CNN, ResNet 
 * GCN
 * [RNN (Text)](Sentiment_Analysis.ipynb), [RNN (Images)](ImageRNN.ipynb)
