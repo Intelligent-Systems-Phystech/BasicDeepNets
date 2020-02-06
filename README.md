@@ -25,7 +25,7 @@ Below is a list of networks to be implemented (those which are already available
 * GCN
 * [RNN (Text)](Sentiment_Analysis.ipynb), [RNN (Images)](ImageRNN.ipynb)
 * LSTM, LSTM + Attention
-* Word2Vec, Emdeddings
+* [Word2Vec](Word2Vec.ipynb), Emdeddings
 * VAE
 * [GAN](GAN.ipynb)
 * T2T
