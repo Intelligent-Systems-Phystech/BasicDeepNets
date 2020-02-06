@@ -30,7 +30,7 @@ Below is a list of networks to be implemented (those which are already available
 * [GAN](GAN.ipynb)
 * T2T
 * PLS
-* RL
+* [RL](RL-DQN.ipynb)
 * [Seq2Seq + Attention](Seq2seq%20+%20Attention.ipynb)
 * Networks that generate text, music, pictures...
 
