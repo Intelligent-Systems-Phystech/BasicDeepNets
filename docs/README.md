@@ -83,10 +83,8 @@ In general, it is recommended to find a ready-made code (good external source) a
 
 ### Linear Models
 
-What can be demonstrated
-
-* in the practical part: solve a couple of problems, show that they can be solved analytically, using gradient methods and with the help of PyTorch or TensorFlow
-* in the theoretical part: compare ordinary linear regression and Bayesian one
+What can be demonstrated in the practical part: solve a couple of problems, show that they can be solved analytically, using gradient methods and with the help of PyTorch or TensorFlow.
+And in the theoretical part: compare ordinary linear regression and Bayesian one
 
 * [5.06-Linear-Regression.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
 * [exploring_endorsement_revenue_nba.ipynb](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb)
